@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zezeina,but you can call me zeina.
+- 👋 Hi, I’m @Zeina-Shalaan ,but you can call me zeina.
 - 👀 I’m interested in all programming related things
 - 🌱 I’m currently learning c++, and improving my python skills.
 - 📫 How to reach me , just email me .
